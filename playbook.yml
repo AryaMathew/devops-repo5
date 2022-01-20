@@ -2,3 +2,4 @@
 - restart apache
 - virtual host 
 - php install
+- mariadb install
